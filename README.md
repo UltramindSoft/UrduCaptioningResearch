@@ -1,7 +1,13 @@
 # UrduCaptioningResearch
 Earlier Research Project on "Urdu Image Captioning" at MUST(AJ&amp;K) in 2015-17
 
-The research was carried on 999-natural scene images, by Sidra shabir as part of her MS-Thesis.
+The research on Urdu image Captioning was carried on 999-natural scene images, by Sidra shabir as sub-part of her MS-Thesis.
+<br>
+<br>
+<br>
+<br>
+<br>
+Dataset present in this repository is nearly similar to original.
 
 
 
